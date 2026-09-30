@@ -1,0 +1,13 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# macOS
+.DS_Store
+
+# Local MapKit key — copy from MapKitSecrets.example.plist
+UserMap/MapKitSecrets.plist
